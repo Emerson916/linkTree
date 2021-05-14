@@ -2,23 +2,23 @@
 
 const links = {
     "nome": "Emerson Silva",
-    "img": "avatar.png",
+    "img": "../img/pikachu.gif",
     "links": [
         {
-            "titulo": "site pessoal",
-            "url": "http://www.fernandoleonid.com.br/"
+            "titulo": "Site pessoal",
+            "url": ""
         },
         {
-            "titulo": "youtube",
-            "url": "https://www.youtube.com/fernandoleonid"
+            "titulo": "GitHub",
+            "url": "https://github.com/Emerson916"
         },
         {
-            "titulo": "linkedin",
-            "url": "https://www.linkedin.com/in/fernandoleonid/"
+            "titulo": "Linkedin",
+            "url": "https://www.linkedin.com/in/emerson-silva-32441717a/"
         },
         {
-            "titulo": "twitter",
-            "url": "https://twitter.com/fernandoleonid"
+            "titulo": "Currículo",
+            "url": "https://emerson916.github.io/Curriculo_EmersonSilva/"
         }
     ]
 }

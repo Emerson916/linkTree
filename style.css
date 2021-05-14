@@ -4,9 +4,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#avatar{
+    width: 10vw;
+    
+}
+
 :root {
-    --bgColor:#1C1C1C;
-    --accentColor: #ffcc00;
+    --bgColor:#262626;
+    --accentColor: #0ff107a4;
     --font: 'Karla', sans-serif;
 }
 body{
