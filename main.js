@@ -2,11 +2,11 @@
 
 const links = {
     "nome": "Emerson Silva",
-    "img": "../img/pikachu.gif",
+    "img": "pikachu.gif",
     "links": [
         {
             "titulo": "Site pessoal",
-            "url": ""
+            "url": "https://emerson916.github.io/linkTree/index.html"
         },
         {
             "titulo": "GitHub",
