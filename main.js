@@ -6,7 +6,7 @@ const links = {
     "links": [
         {
             "titulo": "Site pessoal",
-            "url": "https://emerson916.github.io/linkTree/index.html"
+            "url": ""
         },
         {
             "titulo": "GitHub",
